@@ -95,7 +95,7 @@ If you are considering applying for a grant, please follow the process below.
   * Universities/Professors
 
 ## :mailbox_with_mail: RFP Suggestion
-If you think that we should sponsor the development of certain tools/projects related to **Polkadot**, **Kusama** and/or **Substrate** that aren't in the [Polkadot Stack](grants/chainx_stack.md) then feel free to submit an RFP suggestion using the process described below. We're particularly interested in supporting projects that could be leveraged by other builders in our ecosystem. We will review your proposal and if we believe it’s useful, we will create an RFP based on your idea and try to find teams to work on it.
+If you think that we should sponsor the development of certain tools/projects related to **ChainX** that aren't in the [ChainX Stack](grants/chainx_stack.md) then feel free to submit an RFP suggestion using the process described below. We're particularly interested in supporting projects that could be leveraged by other builders in our ecosystem. We will review your proposal and if we believe it’s useful, we will create an RFP based on your idea and try to find teams to work on it.
 
 Instructions for submitting an RFP suggestion:
 
@@ -109,17 +109,8 @@ Instructions for submitting an RFP suggestion:
 
 ### Additional information
 
-* [W3F Website](https://web3.foundation)
-* [W3F Forum](https://forum.web3.foundation)
-* [W3F Twitter](https://twitter.com/web3foundation)
-* [W3F Medium](https://medium.com/web3foundation)
-* [Polkadot Wiki](https://wiki.polkadot.network/en/)
-* [Web 3.0 Reddit](https://www.reddit.com/r/web3)
+* [ChainX Website](https://chainx.org)
+* [ChainX Twitter](https://twitter.com/chainx_org)
+* [ChainX Medium](https://medium.com/chainx_org)
+* [ChainX Wiki](https://wiki.polkadot.network/en/)
 
-### Real-time conversation
-We have Riot channels for real-time discussions on Web3 and Polkadot. Join the conversations.
-* [Web3 Foundation](https://riot.im/app/#/room/#web3foundation:matrix.org)
-* [Polkadot Watercooler](https://riot.im/app/#/room/#polkadot-watercooler:matrix.org)
-
-## :information_source: License
-[Apache License 2.0](https://github.com/w3f/Web3-collaboration/blob/Noc2-patch-3/LICENSE) © Web3 Foundation 
