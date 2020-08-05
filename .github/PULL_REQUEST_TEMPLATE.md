@@ -22,10 +22,9 @@ The details should be in the application 'document' that you add to this repo vi
 
 
 ## Checklist
-- [ ] The [grants](https://github.com/w3f/Web3-collaboration/blob/master/grants/grants.md) document has been read and understood.
-- [ ] The [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfMfjiRmDQDRk-4OhNASM6BAKii7rz_B1jWtbCPkUh6N7M2ww/viewform) will be completed accurately. Note that the Google Form requires the pull request URL.
+- [ ] The [grants](https://github.com/ChainX-Parliament/Web3-collaboration/blob/master/grants/grants.md) document has been read and understood.
+- [ ] The [Google Form](https://docs.google.com/forms/d/1Immh_3_6ZQa6FiqqiH_oEII2abPT6HGLM_wX4BLbRE8/) will be completed accurately. Note that the Google Form requires the pull request URL.
 - [ ] Abstract (above) is succinct and complete.
-- [ ] The application is being included into the correct directory: either '[targeted](https://github.com/w3f/Web3-collaboration/tree/master/grants/targeted)' or '[speculative](https://github.com/w3f/Web3-collaboration/tree/master/grants/speculative)'.
 - [ ] The application includes a project description.
 - [ ] The application includes all names of team members.
 - [ ] The application includes a description of the team's experience.
@@ -33,5 +32,5 @@ The details should be in the application 'document' that you add to this repo vi
 - [ ] The "Development Roadmap" section in the application has a timeline of development ("milestones").
 - [ ] The "Development Roadmap" section in the application has an estimate of funds required.
 - [ ] The "Development Roadmap" section gives an indication of the team's long term plans.
-- [ ] The "Development Roadmap" section includes [documentation](https://github.com/w3f/Web3-collaboration/blob/master/grants/grants.md#documentation) as a deliverable for at least one milestone.
+- [ ] The "Development Roadmap" section includes [documentation](https://github.com/ChainX-Parliament/General-Grants-Program/blob/master/grants/grants.md#documentation) as a deliverable for at least one milestone.
 

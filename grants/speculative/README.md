@@ -65,23 +65,23 @@ If you are considering applying for a grant, please follow the process below.
     1. Fully or partially public applications should be made via a pull request to this repo by following the steps below.
        1. Fork this repository.
        1. In the newly created fork, create a copy of the [technical grant template](https://github.com/ChainX-Parliament/General-Grants-Program/blob/master/grants/grant_application_template.md).
-           * Most applications should go into the [speculative](https://github.com/w3f/Web3-collaboration/tree/master/grants/speculative) sub-folder.
-           * In the few cases where the application is a response to specific RFP then the application should go into the [rfps](https://github.com/w3f/Web3-collaboration/tree/master/grants/rfps) sub-folder.
+           * Most applications should go into the [speculative](https://github.com/ChainX-Parliament/General-Grants-Program/tree/master/grants/speculative) sub-folder.
+           * In the few cases where the application is a response to specific RFP then the application should go into the [rfps](https://github.com/ChainX-Parliament/General-Grants-Program/tree/master/grants/rfps) sub-folder.
        1. Label the file as "project_name.md".
        1. Fill out the template with the details of your project.
        1. Once you have completed the application, click on "create new pull request".
-       1. The body of the pull request will show a template that requests an abstract of the project and the completion of a checklist. Please complete as appropriate and take care to include all necessary information. The **pull request template** can be viewed [here](https://github.com/w3f/Web3-collaboration/blob/master/.github/PULL_REQUEST_TEMPLATE.md).
+       1. The body of the pull request will show a template that requests an abstract of the project and the completion of a checklist. Please complete as appropriate and take care to include all necessary information. The **pull request template** can be viewed [here](https://github.com/ChainX-Parliament/General-Grants-Program/blob/master/.github/PULL_REQUEST_TEMPLATE.md).
        
 1. **Review**
-   * The W3F will review the applications received, determine if more information is required and potentially schedule a call with the team.
+   * The ChainX-Parliament will review the applications received, determine if more information is required and potentially schedule a call with the team.
    * Parity Technologies may also assist in the review of some applications.
    
 1. **Decision**
-   * The W3F will notify the applicants of whether their proposal has been accepted for grant funding or not.
+   * The ChainX-Parliament will notify the applicants of whether their proposal has been accepted for grant funding or not.
    * If a team is successful, further communication will be required to determine specific details around timelines and payment schedules.
    
 1. **Follow up**
-   * Once progress has started, the W3F will want to have follow up conversations to see how the project is progressing.
+   * Once progress has started, the ChainX-Parliament will want to have follow up conversations to see how the project is progressing.
    * To help to speed up the milestone evaluation process, take a look at the [Milestone Deliverables Guidelines](./grants/milestone-deliverables-guidelines.md)
 
 ### Who we are interested in funding
@@ -112,6 +112,6 @@ Instructions for submitting an RFP suggestion:
 * [ChainX Website](https://chainx.org)
 * [ChainX Twitter](https://twitter.com/chainx_org)
 * [ChainX Medium](https://medium.com/chainx_org)
-* [ChainX Wiki](https://wiki.polkadot.network/en/)
+* [ChainX Wiki](https://doc.chainx.org/)
 
 
