@@ -1,8 +1,6 @@
 # General Grants Program
 
-<p align="center">
-  <img src="./src/General_Grants_Program.png" style="width:1300px";>
-</p>
+
 
 ChainX has been fully open sourced. As part of promoting ChainX’s ecosysterm. ChainX Council will provide a comprehensive subsidy plan, mainly for software development, community development and market expansion.
 
