@@ -41,7 +41,7 @@ Below we provide an **example roadmap**. In the descriptions it should be clear 
 
 For each milestone:
 * Please be sure to include a specification of the software. The level of detail must be enough so that we are able to test that the software meets the specification.
-* Please include total amount of funding requested per milestone. Funding can be in fiat (CHF, EUR or USD) or in pcx. It can also be in a combination of fiat and pcx. 
+* Please include total amount of funding requested per milestone. Funding can be in fiat (USDT / USDC) or in pcx. It can also be in a combination of fiat and pcx. 
 * Please note that we require documentation (e.g. tutorials) in each milestone. This ensures that the code can be widely used by the community.
 * Please commit to providing a docker container for the delivery of your project. 
 * Please indicate the number of Full-Time Employees working on each milestone, and include the number of days along with their cost per day.

@@ -4,7 +4,7 @@
   <img src="./src/General_Grants_Program.png" style="width:1300px";>
 </p>
 
-ChainX has been fully open sourced. As part of promoting ChainX’s ecosysterm. ChainX Council will provide a comprehensive subsidy plan, mainly for software development, community development and market expansion.
+ChainX has been fully open sourced. As part of promoting ChainX’s ecosystem. ChainX Council will provide a comprehensive subsidy plan, mainly for software development, community development and market expansion.
 
 ---
 
@@ -21,7 +21,7 @@ ChainX has been fully open sourced. As part of promoting ChainX’s ecosysterm. 
 - [:information_source: License](#information_source-license)
 
 ## :clipboard: About 
-ChainX has been fully open sourced. As part of promoting ChainX’s ecosysterm. ChainX Council will provide a comprehensive subsidy plan, mainly for software development, community development and market expansion. 
+ChainX has been fully open sourced. As part of promoting ChainX’s ecosystem. ChainX Council will provide a comprehensive subsidy plan, mainly for software development, community development and market expansion. 
 
 ## :bookmark_tabs: Grant Amount
 Technical direction:
