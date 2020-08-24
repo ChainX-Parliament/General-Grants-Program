@@ -2,7 +2,7 @@
 
 
 
-ChainX has been fully open sourced. As part of promoting ChainX’s ecosysterm. ChainX Council will provide a comprehensive subsidy plan, mainly for software development, community development and market expansion.
+ChainX is the largest Layer-2 network of Bitcoin,based on substrate technology, will evolve into the Polkadot Network as a secondary relay chain eventually.
 
 ---
 

@@ -2,6 +2,8 @@
 
 
 
+ChainX is the largest Layer-2 network of Bitcoin,based on substrate technology, will evolve into the Polkadot Network as a secondary relay chain eventually.
+
 ---
 
 - [:clipboard: About](#clipboard-about)
