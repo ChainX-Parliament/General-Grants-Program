@@ -1,6 +1,6 @@
 # Milestone Deliverables Guidelines
 
-We kindly ask you to consider the following guidelines when you submit a milestone for evaluation. Please submit your milestones by email to grants@web3.foundation.
+We kindly ask you to consider the following guidelines when you submit a milestone for evaluation. Please submit your milestones by email to hi@chainx.org .
 
 The submission should contain the following information: 
  * **Name of the grant project**

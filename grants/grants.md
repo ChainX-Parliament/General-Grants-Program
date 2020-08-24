@@ -30,7 +30,7 @@ Technical direction:
 
 Market direction:
 
-* Each applicant can support within 10,000 US dollars.
+* Each applicant can support within 10,000 USD.
 
 Community grants:
 

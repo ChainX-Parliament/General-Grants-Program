@@ -23,17 +23,17 @@ ChainX has been fully open sourced. As part of promoting ChainX’s ecosystem. C
 ## :bookmark_tabs: Grant Amount
 Technical direction:
 
-* Those with a budget of less than 10,000 USDT will pass the review as soon as possible.
-* Those with a budget of more than 10,000 USDT and less than 50,000 USDT will require longer review time.
+* Those with a budget of less than 10,000 USD will pass the review as soon as possible.
+* Those with a budget of more than 10,000 USD and less than 50,000 USD will require longer review time.
 * The team can apply for grants multiple times, but they need to complete the previous project (to be consistent with the description in the application) to get the next grant. We are mainly interested in projects that can be completed within 3 months.
 
 Market direction:
 
-* Each applicant can support within 10,000 US dollars.
+* Each applicant can support within 10,000 USD.
 
 Community grants:
 
-* Each applicant can get a grant within $5,000
+* Each applicant can get a grant within 5,000 USD
 
 Others:
 

@@ -22,7 +22,7 @@ The details should be in the application 'document' that you add to this repo vi
 
 
 ## Checklist
-- [ ] The [grants](https://github.com/ChainX-Parliament/Web3-collaboration/blob/master/grants/grants.md) document has been read and understood.
+- [ ] The [grants](https://github.com/ChainX-Parliament/General-Grants-Program/blob/master/grants/grants.md) document has been read and understood.
 - [ ] The [Google Form](https://docs.google.com/forms/d/1Immh_3_6ZQa6FiqqiH_oEII2abPT6HGLM_wX4BLbRE8/) will be completed accurately. Note that the Google Form requires the pull request URL.
 - [ ] Abstract (above) is succinct and complete.
 - [ ] The application includes a project description.
