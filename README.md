@@ -72,7 +72,7 @@ If you are considering applying for a grant, please follow the process below.
        
 1. **Review**
    * The ChainX-Parliament will review the applications received, determine if more information is required and potentially schedule a call with the team.
-   * Parity Technologies may also assist in the review of some applications.
+   * Polka-X Team may also assist in the review of some applications.
    
 1. **Decision**
    * The ChainX-Parliament will notify the applicants of whether their proposal has been accepted for grant funding or not.

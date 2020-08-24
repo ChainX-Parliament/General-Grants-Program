@@ -72,7 +72,7 @@ If you are considering applying for a grant, please follow the process below.
        
 1. **Review**
    * The ChainX-Parliament will review the applications received, determine if more information is required and potentially schedule a call with the team.
-   * Parity Technologies may also assist in the review of some applications.
+   * Polka-X Team may also assist in the review of some applications.
    
 1. **Decision**
    * The ChainX-Parliament will notify the applicants of whether their proposal has been accepted for grant funding or not.
@@ -93,7 +93,7 @@ If you are considering applying for a grant, please follow the process below.
   * Universities/Professors
 
 ## :mailbox_with_mail: RFP Suggestion
-If you think that we should sponsor the development of certain tools/projects related to **ChainX** that aren't in the [ChainX Stack](./grants/chainx_stack.md) then feel free to submit an RFP suggestion using the process described below. We're particularly interested in supporting projects that could be leveraged by other builders in our ecosystem. We will review your proposal and if we believe it’s useful, we will create an RFP based on your idea and try to find teams to work on it.
+If you think that we should sponsor the development of certain tools/projects related to **ChainX** that aren't in the [ChainX Stack](./chainx_stack.md) then feel free to submit an RFP suggestion using the process described below. We're particularly interested in supporting projects that could be leveraged by other builders in our ecosystem. We will review your proposal and if we believe it’s useful, we will create an RFP based on your idea and try to find teams to work on it.
 
 Instructions for submitting an RFP suggestion:
 

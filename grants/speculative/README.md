@@ -1,10 +1,7 @@
 # General Grants Program
 
-<p align="center">
-  <img src="./src/General_Grants_Program.png" style="width:1300px";>
-</p>
 
-ChainX has been fully open sourced. As part of promoting ChainX’s ecosystem. ChainX Council will provide a comprehensive subsidy plan, mainly for software development, community development and market expansion.
+ChainX is the largest Layer-2 network of Bitcoin,based on substrate technology, will evolve into the Polkadot Network as a secondary relay chain eventually.
 
 ---
 
@@ -74,7 +71,7 @@ If you are considering applying for a grant, please follow the process below.
        
 1. **Review**
    * The ChainX-Parliament will review the applications received, determine if more information is required and potentially schedule a call with the team.
-   * Parity Technologies may also assist in the review of some applications.
+   * Polka-X Team may also assist in the review of some applications.
    
 1. **Decision**
    * The ChainX-Parliament will notify the applicants of whether their proposal has been accepted for grant funding or not.
@@ -95,7 +92,7 @@ If you are considering applying for a grant, please follow the process below.
   * Universities/Professors
 
 ## :mailbox_with_mail: RFP Suggestion
-If you think that we should sponsor the development of certain tools/projects related to **ChainX** that aren't in the [ChainX Stack](./grants/chainx_stack.md) then feel free to submit an RFP suggestion using the process described below. We're particularly interested in supporting projects that could be leveraged by other builders in our ecosystem. We will review your proposal and if we believe it’s useful, we will create an RFP based on your idea and try to find teams to work on it.
+If you think that we should sponsor the development of certain tools/projects related to **ChainX** that aren't in the [ChainX Stack](./chainx_stack.md) then feel free to submit an RFP suggestion using the process described below. We're particularly interested in supporting projects that could be leveraged by other builders in our ecosystem. We will review your proposal and if we believe it’s useful, we will create an RFP based on your idea and try to find teams to work on it.
 
 Instructions for submitting an RFP suggestion:
 
