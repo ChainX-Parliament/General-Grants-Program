@@ -85,7 +85,6 @@ If you are considering applying for a grant, please follow the process below.
 
 * Individuals
   * Developers, anyone in the community
-  * Note: all contracts need to be signed with legal entities (e.g. an LLC / Ltd).
 * Companies/Teams
   * Established teams with a track record
 * Researchers
